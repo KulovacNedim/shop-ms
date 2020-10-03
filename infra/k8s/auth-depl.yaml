@@ -21,7 +21,6 @@ spec:
                           cpu: "500m"
                   # ports:
                   # - containerPort: <Port>
-
 ---
 apiVersion: v1
 kind: Service
